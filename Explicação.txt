@@ -1,0 +1,17 @@
+Link do repositório no GitHub: https://github.com/RafaelSedor/PPDM_Gerenciamento_de_recursos_dispositivos_moveis
+
+Pontos mais complicados de reproduzir:
+
+1. Espaçamento e alinhamento:
+   - Conseguir os espaçamentos certos entre os elementos foi um pouco complicado. Queria garantir que tudo ficasse bem alinhado e organizado em diferentes tamanhos de tela.
+
+2. Imagem da placa com campo de texto:
+   - Posicionar o campo de texto exatamente no meio da imagem da placa foi desafiador. Tive que ajustar várias vezes para que ficasse centralizado.
+
+3. Estilização das abas de navegação:
+   - Fazer com que a aba ativa (MOTOS) ficasse destacada com a linha vermelha embaixo deu um pouco de trabalho. Queria que ficasse igual ao aplicativo original.
+
+4. Componente Switch:
+   - Personalizar o switch para que ficasse parecido com o original foi difícil. O switch padrão do React Native não permite muitas customizações.
+
+Aplicativo escolhido: PlacaFip
